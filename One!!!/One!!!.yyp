@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"spr_9_base","path":"sprites/spr_9_base/spr_9_base.yy",},"order":9,},
+    {"id":{"name":"spr_9_base","path":"sprites/spr_9_base/spr_9_base.yy",},"order":0,},
     {"id":{"name":"spr_2","path":"sprites/spr_2/spr_2.yy",},"order":1,},
     {"id":{"name":"spr_draw_2","path":"sprites/spr_draw_2/spr_draw_2.yy",},"order":12,},
     {"id":{"name":"spr_6","path":"sprites/spr_6/spr_6.yy",},"order":5,},
@@ -11,6 +11,7 @@
     {"id":{"name":"spr_8","path":"sprites/spr_8/spr_8.yy",},"order":7,},
     {"id":{"name":"spr_0","path":"sprites/spr_0/spr_0.yy",},"order":9,},
     {"id":{"name":"spr_skip","path":"sprites/spr_skip/spr_skip.yy",},"order":11,},
+    {"id":{"name":"spr_draw_4","path":"sprites/spr_draw_4/spr_draw_4.yy",},"order":3,},
     {"id":{"name":"spr_4","path":"sprites/spr_4/spr_4.yy",},"order":3,},
     {"id":{"name":"spr_9","path":"sprites/spr_9/spr_9.yy",},"order":8,},
     {"id":{"name":"spr_7","path":"sprites/spr_7/spr_7.yy",},"order":6,},
@@ -45,7 +46,7 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Blue Sprites.yy","order":10,"resourceVersion":"1.0","name":"Blue Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Blue Sprites.yy","order":1,"resourceVersion":"1.0","name":"Blue Sprites","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
